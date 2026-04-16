@@ -1,6 +1,3 @@
-Aquí lo tienes limpio y listo en **Markdown puro** para copiar:
-
-````markdown
 # SubDomEnum 🔍
 
 **SubDomEnum** es una herramienta de reconocimiento y enumeración de subdominios diseñada para ser rápida, eficiente y extremadamente fácil de usar. Combina la potencia del descubrimiento pasivo (vía `crt.sh`) con la fuerza bruta activa y validación en tiempo real.
@@ -79,4 +76,3 @@ python SubDomEnum.py dominio.com [opciones]
 ---
 
 **Desarrollado para proyectos de Ciberseguridad y Pentesting Ético.** 🚀
-````
